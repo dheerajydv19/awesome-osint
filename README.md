@@ -1395,6 +1395,8 @@ algorithms, knowledgebase and AI technology.
 * [Free OSINT Training](https://freetraining.dfirdiva.com/free-osint-training)
 * [These Are the Tools Open Source Researchers Say They Need](https://www.bellingcat.com/resources/2022/08/12/these-are-the-tools-open-source-researchers-say-they-need/) — Results of a survey Bellingcat conducted in February 2022.
 * [OSINT Updates - a free weekly newsletter for OSINTers](https://osintupdates.com/)
+* [Your one-stop destination for best OSINT resources](https://www.osintresources.com/)
+* [Blogging platform for OSINT lovers](https://osintblogs.com/)
 
 ## [↑](#-table-of-contents) Related Awesome Lists
 
